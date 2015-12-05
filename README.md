@@ -242,3 +242,10 @@ Orr (Catch-22)
 > Be less curious about people and more curious about ideas.
 
 Marie Curie
+
+---
+> Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.
+The supreme art of war is to subdue the enemy without fighting.
+Opportunities multiply as they are seized.
+
+Sun Tzu
